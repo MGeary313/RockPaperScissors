@@ -3,9 +3,10 @@ import sys
 import random
 
 
-
+##title
 print('Rock, Paper, Scissors')
 
+#score tracker
 wins = 0
 losses = 0
 ties = 0
